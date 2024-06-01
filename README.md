@@ -14,7 +14,7 @@ Utilizei o "ChatGPT" para revisar minha pesquisa sobre IAs Generativas, estrutur
 ## 🚀 Resultados
 O e-book apresenta um conteúdo envolvente e visualmente rico, demonstrando como as IAs Genativas podem ser uma ferramenta poderosa na educação e na disseminação do conhecimento da Programação.
 
-[LINK PARA O E-BOOK AQUI]()
+[LINK PARA O E-BOOK AQUI](https://github.com/ThiagoLipe/lab-natty-or-not/blob/f5b3bb7e05324917b7a47e44d6fc2100432721a7/IA%20Generativa%20na%20Programa%C3%A7%C3%A3o.pdf)
 
 ## 💭 Reflexão
 Criar este e-book foi uma experiência reveladora sobre o potencial criativo das IAs e como elas podem ser aplicadas em diferentes contextos.
